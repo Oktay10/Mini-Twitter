@@ -1,4 +1,4 @@
 # twitterApp
-PHP
-MySQL
-Eloquent ORM
+- PHP
+- MySQL
+- Eloquent ORM
